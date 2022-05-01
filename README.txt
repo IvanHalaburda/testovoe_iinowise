@@ -5,8 +5,11 @@ stuff users:
     login: Ivan
     password: Ivan2003
 
-simple users:
+regular users:
     login: Client
+    password: Ivan2003
+    
+    login: Lena-poleno
     password: Ivan2003
 
 List of tickets:
