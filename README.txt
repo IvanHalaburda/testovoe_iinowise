@@ -9,7 +9,7 @@ regular users:
     login: Client
     password: Ivan2003
     
-    login: Lena-poleno
+    login: Lena-Poleno
     password: Ivan2003
 
 List of tickets:
